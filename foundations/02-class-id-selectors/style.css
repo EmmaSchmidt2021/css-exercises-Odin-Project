@@ -1,0 +1,23 @@
+.pink-medium {
+    color: black;
+    background-color: pink;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pink-medium.large {
+    color: black;
+    background-color: pink;
+    font-size: 36px;
+}
+
+.blue-large{
+    color: blue;
+    font-size: 42px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.green-bold{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
+
